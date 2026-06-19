@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       password,
       options: {
         // This MUST be present so the Supabase request includes ?redirect_to=
-        emailRedirectTo: 'https://gptsweetheart.com/redirect'
+        emailRedirectTo: 'https://ugcavatars.com.au/redirect'
       }
     });
 
